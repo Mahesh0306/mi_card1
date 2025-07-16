@@ -1,4 +1,4 @@
-# mi_card
+# MiCard - How to Build Beautiful UIs with Flutter Widgets
 
 A new Flutter project.
 
