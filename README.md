@@ -3,7 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-You can find a main.dart file in lib (source code)
+You can find a main.dart file in lib (source code).
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
